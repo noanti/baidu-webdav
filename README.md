@@ -1,2 +1,4 @@
 appleu0
-baidu-pan-webdev
+baidu-webdev
+
+clone https://github.com/ly0/baidupcsapi.git
